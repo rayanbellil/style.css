@@ -16,7 +16,7 @@ h2:hover {
 
 h2:active {
     color: rgb(42, 165, 89);
-}  
+}
 
 .box {
     width: 100px;
@@ -27,6 +27,18 @@ h2:active {
 
 .con {
     background-color: blueviolet;
-   
+    border: 10px solid;
+    display: flex;
+    
+
+
+}
+
+@media (max-width: 500px) {
+    .con {
+        background-color: blue;
+        flex-direction: column;
+    }
+
 
 }
