@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: brown;
+}
+
+a:link {
+    color: rgb(15, 178, 237);
+}
+
+
+
+
+h2:hover {
+    color: aqua;
+}
+
+h2:active {
+    color: rgb(42, 165, 89);
+}  
