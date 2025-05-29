@@ -10,9 +10,6 @@ a:link {
     color: rgb(15, 178, 237);
 }
 
-
-
-
 h2:hover {
     color: aqua;
 }
@@ -20,3 +17,16 @@ h2:hover {
 h2:active {
     color: rgb(42, 165, 89);
 }  
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin: 2px;
+}
+
+.con {
+    background-color: blueviolet;
+   
+
+}
